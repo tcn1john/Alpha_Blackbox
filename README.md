@@ -4,3 +4,7 @@ An alpha of nasdaq 100 is shared through google cloud function. Everone can trad
 https://colab.research.google.com/github/tcn1john/Alpha_Blackbox/blob/main/NDX_next_day_alpha.ipynb
 
 ![performance](https://raw.githubusercontent.com/tcn1john/Alpha_Blackbox/main/performance.png)
+
+https://colab.research.google.com/github/tcn1john/Alpha_Blackbox/blob/main/TWII_next_day_alpha.ipynb
+
+![performance](https://raw.githubusercontent.com/tcn1john/Alpha_Blackbox/main/performance_twii.png)
